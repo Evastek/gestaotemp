@@ -1,7 +1,7 @@
 {
   "name": "Evastek — Sistema de Gestão",
-  "short_name": "Evastek",
-  "description": "Sistema de gestão de reuniões e prospecção Evastek",
+  "short_name": "Evastek Gestão",
+  "description": "Sistema de gestão comercial Evastek",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
@@ -23,3 +23,7 @@
     }
   ]
 }
+
+
+
+
